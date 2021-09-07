@@ -1,7 +1,7 @@
 # Lab-4.08-first-part
 
   
-  > Work with a partner to complete the activity below. Use Google heavily and be sure to ask for help if you get stuck. Remember you should always try to solve the problem yourself first using Google. If you are stuck for more than 10 minutes, ask your partner. If together you can't solve the problem in another 10 minutes, ask instructional staff for help. 
+  > Use Google heavily and be sure to ask for help if you get stuck. Remember you should always try to solve the problem yourself first using Google. If you are stuck for longer time, ask instructional staff for help. 
   
   For this activity, you will be building a content management system for a blog with multiple authors
   
